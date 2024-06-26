@@ -1,0 +1,42 @@
+﻿  MainCode.cpp
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Utilities\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Utilities\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Utilities\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Utilities\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Utilities\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Utilities\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(12,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(84,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(84,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(84,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(98,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(99,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(100,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(119,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(120,22): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(175,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(179,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(207,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(213,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(218,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(218,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(218,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(221,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(307,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(307,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(307,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(307,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(307,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(307,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         ]
+  8-2_Assignment.vcxproj -> C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\8-2_Assignment\Debug\8-2_Assignment.exe
