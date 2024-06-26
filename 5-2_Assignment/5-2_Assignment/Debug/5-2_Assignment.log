@@ -1,0 +1,20 @@
+﻿  ShaderManager.cpp
+  SceneManager.cpp
+  Generating Code...
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(331,20): error C2039: 'SetShaderMaterial': is not a member of 'SceneManager'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(334,6): error C2065: 'm_objectMaterials': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(336,3): error C2065: 'OBJECT_MATERIAL': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(336,19): error C2146: syntax error: missing ';' before identifier 'material'
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(336,19): error C2065: 'material': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(339,39): error C2065: 'material': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(339,13): error C3861: 'FindMaterial': identifier not found
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(342,4): error C2065: 'm_pShaderManager': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(342,60): error C2065: 'material': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(343,4): error C2065: 'm_pShaderManager': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(343,64): error C2065: 'material': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(344,4): error C2065: 'm_pShaderManager': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(344,60): error C2065: 'material': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(345,4): error C2065: 'm_pShaderManager': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(345,61): error C2065: 'material': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(346,4): error C2065: 'm_pShaderManager': undeclared identifier
+C:\Users\Thomf\OneDrive\Desktop\CS330Content (1)\CS330Content\Projects\5-2_Assignment\Source\SceneManager.cpp(346,58): error C2065: 'material': undeclared identifier
